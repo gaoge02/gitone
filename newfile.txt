@@ -1,4 +1,1 @@
-one line
-<<<<<<< HEAD
-ok line
-heihei line
+heieiheihei
